@@ -14,7 +14,7 @@
 
 - 📝 I regularly write articles on [https://github.com/jolujiga](https://github.com/jolujiga)
 
-- 💬 Ask me about **react, vue, python, java, c++**
+- 💬 Ask me about **react, vue, python, java, c++, ...**
 
 - 📫 How to reach me **jolujiga@gmail.com**
 
