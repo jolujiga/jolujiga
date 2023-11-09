@@ -120,7 +120,7 @@
 <h3 align="left">This week I spent my time on:</h3>
 
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=jolujiga&show_icons=true&locale=en" alt="jolujiga" /></p>
-
-![Wwakatime stats](https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=gautamkrishnar&hide_title=true&hide_border=true&langs_count=5&bg_color=00000000&text_color=777)
+![Wwakatime stats](https://github-readme-stats.vercel.app/api?username=jolujiga&show_icons=true&locale=en&hide_title=true&hide_border=true&langs_count=5&bg_color=00000000&text_color=777
+![Wwakatime stats](https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=jolujiga&hide_title=true&hide_border=true&langs_count=5&bg_color=00000000&text_color=777)
 <!--
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jolujiga&" alt="jolujiga" /></p>-->
