@@ -117,13 +117,12 @@
    <br /><br/>
    
 <h3 align="left">This week I spent my time on:</h3>
-[![Sarthak's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=jolujiga&&theme=xcode)](https://github.com/jolujiga)
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jolujiga&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="jolujiga" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jolujiga&show_icons=true&locale=en&theme=tokyonight" alt="jolujiga" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jolujiga&&theme=tokyonight" alt="jolujiga" /></p>
+<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=jolujiga&&theme=tokyonight" alt="jolujiga" /></p>
 
 <!--
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jolujiga&show_icons=true&locale=en&layout=compact" alt="jolujiga" /></p>
