@@ -124,9 +124,9 @@
 </p>
 <br /><br />
 <p>
-   <img align="left" width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=jolujiga&&theme=vue" alt="jolujiga" />
+   <img align="left" width="300" src="https://github-readme-streak-stats.herokuapp.com/?user=jolujiga&&theme=vue" alt="jolujiga" />
 
-   <img align="center" width="400" src="https://github-readme-stats.vercel.app/api?username=jolujiga&show_icons=true&locale=en&theme=vue" alt="jolujiga" />
+   <img align="right" width="300" src="https://github-readme-stats.vercel.app/api?username=jolujiga&show_icons=true&locale=en&theme=vue" alt="jolujiga" />
 </p>
 
 
