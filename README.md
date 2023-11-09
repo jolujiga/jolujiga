@@ -121,6 +121,8 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=jolujiga&show_icons=true&locale=en&theme=vue" alt="jolujiga" /></p>
 <p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=jolujiga&show_icons=true&locale=en&layout=compact&theme=vue" alt="jolujiga" /></p>
+
+<h3 align="left">Activity Summary on GitHub:</h3>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jolujiga&&theme=vue" alt="jolujiga" /></p>
 
 
