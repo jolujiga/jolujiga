@@ -115,18 +115,18 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/jolujigah"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="jolujigah" /></a>
    <a href="https://ko-fi.com/joseluisjimenezgarcia"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="joseluisjimenezgarcia" /></a></p>
-   <br /><br/>
+   <br /><br />
    
 <h3 align="left">This week I spent my time on:</h3>
 
 <p>
    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jolujiga&show_icons=true&locale=en&layout=compact&theme=vue" alt="jolujiga" />
 </p>
-
+<br /><br />
 <p>
-   <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=jolujiga&&theme=vue" alt="jolujiga" />
+   <img align="left" width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=jolujiga&&theme=vue" alt="jolujiga" />
 
-   <img align="center" src="https://github-readme-stats.vercel.app/api?username=jolujiga&show_icons=true&locale=en&theme=vue" alt="jolujiga" />
+   <img align="center" width="400" src="https://github-readme-stats.vercel.app/api?username=jolujiga&show_icons=true&locale=en&theme=vue" alt="jolujiga" />
 </p>
 
 
