@@ -127,7 +127,7 @@
 </p>
 <br /><br/>
 <h3 align="left">Activity Summary on GitHub:</h3>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jolujiga&&theme=vue" alt="jolujiga" /></p>
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=jolujiga&&theme=vue" alt="jolujiga" /></p>
 
 
 
