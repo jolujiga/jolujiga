@@ -122,7 +122,7 @@
 <p>
    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jolujiga&show_icons=true&locale=en&layout=compact&theme=vue" alt="jolujiga" />
 </p>
-<br /><br />
+
 <p>
    <img align="left" width="300" src="https://github-readme-streak-stats.herokuapp.com/?user=jolujiga&&theme=vue" alt="jolujiga" />
 
